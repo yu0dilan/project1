@@ -1,4 +1,4 @@
-let h1 = document.querySelector('h1');
-h1.addEventListener('click', ()=>
-{h1.textContent = 'am ajuns!'}
+let h3= document.querySelector('h3');
+h3.addEventListener('click', ()=>
+{h3.textContent = 'am ajuns!'}
 )
